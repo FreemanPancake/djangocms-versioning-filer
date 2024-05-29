@@ -2,6 +2,11 @@
 Changelog
 =========
 
+(Unreleased)
+============
+* DjangoCMS 4.1 support added
+* Python 3.11 support added
+
 1.3.0 (2024-05-16)
 ==========
 * Django 4.2 support added
